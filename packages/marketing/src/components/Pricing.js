@@ -163,7 +163,7 @@ export default function Pricing() {
         >
           Quickly build an effective pricing table for your potential customers
           with this layout. It&apos;s built with default Material-UI components
-          with little customization.
+          with little customization...
         </Typography>
       </Container>
       {/* End hero unit */}
